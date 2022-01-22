@@ -21,3 +21,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/parameter/apirest/target/
+/parameter/apisoap/target/
+/parameter/dao/target/
+/parameter/entity/target/
+/parameter/service/target/
